@@ -1,0 +1,452 @@
+symbol	surface_form	surface_form_type	is_ambiguous
+ADANIENT	Adani Enterprises Ltd.	legal	False
+ADANIENT	ADANIENT	short	False
+ADANIENT	Adani Enterprises	short	False
+ADANIENT	$Adani Enterprises	cashtag	False
+ADANIENT	#Adani Enterprises	hashtag	False
+ADANIENT	$ADANIENT	cashtag	False
+ADANIENT	#ADANIENT	hashtag	False
+ADANIENT	अडानी एंटरप्राइजेज लिमिटेड	devanagari	False
+ADANIPORTS	Adani Ports and Special Economic Zone Ltd.	legal	False
+ADANIPORTS	ADANIPORTS	short	False
+ADANIPORTS	Adani Ports	short	False
+ADANIPORTS	$Adani Ports	cashtag	False
+ADANIPORTS	#Adani Ports	hashtag	False
+ADANIPORTS	$ADANIPORTS	cashtag	False
+ADANIPORTS	#ADANIPORTS	hashtag	False
+ADANIPORTS	अडानी पोर्ट्स एंड स्पेशल इकोनॉमिक ज़ोन लिमिटेड	devanagari	False
+APOLLOHOSP	Apollo Hospitals Enterprise Ltd.	legal	False
+APOLLOHOSP	APOLLOHOSP	short	False
+APOLLOHOSP	Apollo Hospitals	short	False
+APOLLOHOSP	$Apollo Hospitals	cashtag	False
+APOLLOHOSP	#Apollo Hospitals	hashtag	False
+APOLLOHOSP	$APOLLOHOSP	cashtag	False
+APOLLOHOSP	#APOLLOHOSP	hashtag	False
+APOLLOHOSP	अपोलो हॉस्पिटल्स एंटरप्राइज लिमिटेड	devanagari	False
+ASIANPAINT	Asian Paints Ltd.	legal	False
+ASIANPAINT	ASIANPAINT	short	False
+ASIANPAINT	Asian Paints	short	False
+ASIANPAINT	$Asian Paints	cashtag	False
+ASIANPAINT	#Asian Paints	hashtag	False
+ASIANPAINT	$ASIANPAINT	cashtag	False
+ASIANPAINT	#ASIANPAINT	hashtag	False
+ASIANPAINT	एशियन पेंट्स लिमिटेड	devanagari	False
+AXISBANK	Axis Bank Ltd.	legal	False
+AXISBANK	AXISBANK	short	False
+AXISBANK	Axis Bank	short	False
+AXISBANK	$Axis Bank	cashtag	False
+AXISBANK	#Axis Bank	hashtag	False
+AXISBANK	$AXISBANK	cashtag	False
+AXISBANK	#AXISBANK	hashtag	False
+AXISBANK	एक्सिस बैंक लिमिटेड	devanagari	False
+BAJAJ-AUTO	Bajaj Auto Ltd.	legal	False
+BAJAJ-AUTO	BAJAJ-AUTO	short	False
+BAJAJ-AUTO	Bajaj Auto	short	False
+BAJAJ-AUTO	$Bajaj Auto	cashtag	False
+BAJAJ-AUTO	#Bajaj Auto	hashtag	False
+BAJAJ-AUTO	$BAJAJ-AUTO	cashtag	False
+BAJAJ-AUTO	#BAJAJ-AUTO	hashtag	False
+BAJAJ-AUTO	बजाज ऑटो लिमिटेड	devanagari	False
+BAJFINANCE	Bajaj Finance Ltd.	legal	False
+BAJFINANCE	BAJFINANCE	short	False
+BAJFINANCE	Bajaj Finance	short	False
+BAJFINANCE	$Bajaj Finance	cashtag	False
+BAJFINANCE	#Bajaj Finance	hashtag	False
+BAJFINANCE	$BAJFINANCE	cashtag	False
+BAJFINANCE	#BAJFINANCE	hashtag	False
+BAJFINANCE	बजाज फाइनेंस लिमिटेड	devanagari	False
+BAJAJFINSV	Bajaj Finserv Ltd.	legal	False
+BAJAJFINSV	BAJAJFINSV	short	False
+BAJAJFINSV	Bajaj Finserv	short	False
+BAJAJFINSV	$Bajaj Finserv	cashtag	False
+BAJAJFINSV	#Bajaj Finserv	hashtag	False
+BAJAJFINSV	$BAJAJFINSV	cashtag	False
+BAJAJFINSV	#BAJAJFINSV	hashtag	False
+BAJAJFINSV	बजाज फिनसर्व लिमिटेड	devanagari	False
+BEL	Bharat Electronics Ltd.	legal	False
+BEL	BEL	short	False
+BEL	Bharat Electronics	short	False
+BEL	$Bharat Electronics	cashtag	False
+BEL	#Bharat Electronics	hashtag	False
+BEL	$BEL	cashtag	False
+BEL	#BEL	hashtag	False
+BEL	भारत इलेक्ट्रॉनिक्स लिमिटेड	devanagari	False
+BHARTIARTL	Bharti Airtel Ltd.	legal	False
+BHARTIARTL	BHARTIARTL	short	False
+BHARTIARTL	Bharti Airtel	short	False
+BHARTIARTL	$Bharti Airtel	cashtag	False
+BHARTIARTL	#Bharti Airtel	hashtag	False
+BHARTIARTL	Airtel	short	False
+BHARTIARTL	$Airtel	cashtag	False
+BHARTIARTL	#Airtel	hashtag	False
+BHARTIARTL	$BHARTIARTL	cashtag	False
+BHARTIARTL	#BHARTIARTL	hashtag	False
+BHARTIARTL	भारती एयरटेल लिमिटेड	devanagari	False
+CIPLA	Cipla Ltd.	legal	False
+CIPLA	CIPLA	short	False
+CIPLA	Cipla	short	False
+CIPLA	$Cipla	cashtag	False
+CIPLA	#Cipla	hashtag	False
+CIPLA	$CIPLA	cashtag	False
+CIPLA	#CIPLA	hashtag	False
+CIPLA	सिप्ला लिमिटेड	devanagari	False
+COALINDIA	Coal India Ltd.	legal	False
+COALINDIA	COALINDIA	short	False
+COALINDIA	Coal India	short	False
+COALINDIA	$Coal India	cashtag	False
+COALINDIA	#Coal India	hashtag	False
+COALINDIA	$COALINDIA	cashtag	False
+COALINDIA	#COALINDIA	hashtag	False
+COALINDIA	कोल इंडिया लिमिटेड	devanagari	False
+DRREDDY	Dr. Reddy's Laboratories Ltd.	legal	False
+DRREDDY	DRREDDY	short	False
+DRREDDY	Dr Reddy's	short	False
+DRREDDY	$Dr Reddy's	cashtag	False
+DRREDDY	#Dr Reddy's	hashtag	False
+DRREDDY	Dr. Reddy's	short	False
+DRREDDY	$Dr. Reddy's	cashtag	False
+DRREDDY	#Dr. Reddy's	hashtag	False
+DRREDDY	$DRREDDY	cashtag	False
+DRREDDY	#DRREDDY	hashtag	False
+DRREDDY	डॉ. रेड्डीज़ लेबोरेट्रीज़ लिमिटेड	devanagari	False
+EICHERMOT	Eicher Motors Ltd.	legal	False
+EICHERMOT	EICHERMOT	short	False
+EICHERMOT	Eicher Motors	short	False
+EICHERMOT	$Eicher Motors	cashtag	False
+EICHERMOT	#Eicher Motors	hashtag	False
+EICHERMOT	$EICHERMOT	cashtag	False
+EICHERMOT	#EICHERMOT	hashtag	False
+EICHERMOT	आयशर मोटर्स लिमिटेड	devanagari	False
+ETERNAL	Eternal Ltd.	legal	False
+ETERNAL	ETERNAL	short	False
+ETERNAL	Eternal	short	False
+ETERNAL	$Eternal	cashtag	False
+ETERNAL	#Eternal	hashtag	False
+ETERNAL	Zomato	short	False
+ETERNAL	$Zomato	cashtag	False
+ETERNAL	#Zomato	hashtag	False
+ETERNAL	$ETERNAL	cashtag	False
+ETERNAL	#ETERNAL	hashtag	False
+ETERNAL	इटरनल लिमिटेड	devanagari	False
+GRASIM	Grasim Industries Ltd.	legal	False
+GRASIM	GRASIM	short	False
+GRASIM	Grasim	short	False
+GRASIM	$Grasim	cashtag	False
+GRASIM	#Grasim	hashtag	False
+GRASIM	$GRASIM	cashtag	False
+GRASIM	#GRASIM	hashtag	False
+GRASIM	ग्रासिम इंडस्ट्रीज़ लिमिटेड	devanagari	False
+HCLTECH	HCL Technologies Ltd.	legal	False
+HCLTECH	HCLTECH	short	False
+HCLTECH	HCL Tech	short	False
+HCLTECH	$HCL Tech	cashtag	False
+HCLTECH	#HCL Tech	hashtag	False
+HCLTECH	HCL Technologies	short	False
+HCLTECH	$HCL Technologies	cashtag	False
+HCLTECH	#HCL Technologies	hashtag	False
+HCLTECH	$HCLTECH	cashtag	False
+HCLTECH	#HCLTECH	hashtag	False
+HCLTECH	एचसीएल टेक्नोलॉजीज़ लिमिटेड	devanagari	False
+HDFCBANK	HDFC Bank Ltd.	legal	False
+HDFCBANK	HDFCBANK	short	False
+HDFCBANK	HDFC Bank	short	False
+HDFCBANK	$HDFC Bank	cashtag	False
+HDFCBANK	#HDFC Bank	hashtag	False
+HDFCBANK	$HDFCBANK	cashtag	False
+HDFCBANK	#HDFCBANK	hashtag	False
+HDFCBANK	एचडीएफसी बैंक लिमिटेड	devanagari	False
+HDFCLIFE	HDFC Life Insurance Company Ltd.	legal	False
+HDFCLIFE	HDFCLIFE	short	False
+HDFCLIFE	HDFC Life	short	False
+HDFCLIFE	$HDFC Life	cashtag	False
+HDFCLIFE	#HDFC Life	hashtag	False
+HDFCLIFE	$HDFCLIFE	cashtag	False
+HDFCLIFE	#HDFCLIFE	hashtag	False
+HDFCLIFE	एचडीएफसी लाइफ इंश्योरेंस कंपनी लिमिटेड	devanagari	False
+HINDALCO	Hindalco Industries Ltd.	legal	False
+HINDALCO	HINDALCO	short	False
+HINDALCO	Hindalco	short	False
+HINDALCO	$Hindalco	cashtag	False
+HINDALCO	#Hindalco	hashtag	False
+HINDALCO	$HINDALCO	cashtag	False
+HINDALCO	#HINDALCO	hashtag	False
+HINDALCO	हिंडाल्को इंडस्ट्रीज़ लिमिटेड	devanagari	False
+HINDUNILVR	Hindustan Unilever Ltd.	legal	False
+HINDUNILVR	HINDUNILVR	short	False
+HINDUNILVR	Hindustan Unilever	short	False
+HINDUNILVR	$Hindustan Unilever	cashtag	False
+HINDUNILVR	#Hindustan Unilever	hashtag	False
+HINDUNILVR	HUL	short	False
+HINDUNILVR	$HUL	cashtag	False
+HINDUNILVR	#HUL	hashtag	False
+HINDUNILVR	$HINDUNILVR	cashtag	False
+HINDUNILVR	#HINDUNILVR	hashtag	False
+HINDUNILVR	हिंदुस्तान यूनिलीवर लिमिटेड	devanagari	False
+ICICIBANK	ICICI Bank Ltd.	legal	False
+ICICIBANK	ICICIBANK	short	False
+ICICIBANK	ICICI Bank	short	False
+ICICIBANK	$ICICI Bank	cashtag	False
+ICICIBANK	#ICICI Bank	hashtag	False
+ICICIBANK	$ICICIBANK	cashtag	False
+ICICIBANK	#ICICIBANK	hashtag	False
+ICICIBANK	आईसीआईसीआई बैंक लिमिटेड	devanagari	False
+ITC	ITC Ltd.	legal	False
+ITC	ITC	short	False
+ITC	$ITC	cashtag	False
+ITC	#ITC	hashtag	False
+ITC	आईटीसी लिमिटेड	devanagari	False
+INFY	Infosys Ltd.	legal	False
+INFY	INFY	short	False
+INFY	Infosys	short	False
+INFY	$Infosys	cashtag	False
+INFY	#Infosys	hashtag	False
+INFY	$INFY	cashtag	False
+INFY	#INFY	hashtag	False
+INFY	इन्फोसिस लिमिटेड	devanagari	False
+INDIGO	InterGlobe Aviation Ltd.	legal	False
+INDIGO	INDIGO	short	False
+INDIGO	IndiGo	short	False
+INDIGO	$IndiGo	cashtag	False
+INDIGO	#IndiGo	hashtag	False
+INDIGO	$INDIGO	cashtag	False
+INDIGO	#INDIGO	hashtag	False
+INDIGO	इंटरग्लोब एविएशन लिमिटेड	devanagari	False
+JSWSTEEL	JSW Steel Ltd.	legal	False
+JSWSTEEL	JSWSTEEL	short	False
+JSWSTEEL	JSW Steel	short	False
+JSWSTEEL	$JSW Steel	cashtag	False
+JSWSTEEL	#JSW Steel	hashtag	False
+JSWSTEEL	$JSWSTEEL	cashtag	False
+JSWSTEEL	#JSWSTEEL	hashtag	False
+JSWSTEEL	जेएसडब्ल्यू स्टील लिमिटेड	devanagari	False
+JIOFIN	Jio Financial Services Ltd.	legal	False
+JIOFIN	JIOFIN	short	False
+JIOFIN	Jio Financial	short	False
+JIOFIN	$Jio Financial	cashtag	False
+JIOFIN	#Jio Financial	hashtag	False
+JIOFIN	Jio Finance	short	False
+JIOFIN	$Jio Finance	cashtag	False
+JIOFIN	#Jio Finance	hashtag	False
+JIOFIN	$JIOFIN	cashtag	False
+JIOFIN	#JIOFIN	hashtag	False
+JIOFIN	जियो फाइनेंशियल सर्विसेज़ लिमिटेड	devanagari	False
+KOTAKBANK	Kotak Mahindra Bank Ltd.	legal	False
+KOTAKBANK	KOTAKBANK	short	False
+KOTAKBANK	Kotak Bank	short	False
+KOTAKBANK	$Kotak Bank	cashtag	False
+KOTAKBANK	#Kotak Bank	hashtag	False
+KOTAKBANK	Kotak Mahindra Bank	short	False
+KOTAKBANK	$Kotak Mahindra Bank	cashtag	False
+KOTAKBANK	#Kotak Mahindra Bank	hashtag	False
+KOTAKBANK	$KOTAKBANK	cashtag	False
+KOTAKBANK	#KOTAKBANK	hashtag	False
+KOTAKBANK	कोटक महिंद्रा बैंक लिमिटेड	devanagari	False
+LT	Larsen & Toubro Ltd.	legal	False
+LT	LT	short	False
+LT	L&T	short	False
+LT	$L&T	cashtag	False
+LT	#L&T	hashtag	False
+LT	Larsen & Toubro	short	False
+LT	$Larsen & Toubro	cashtag	False
+LT	#Larsen & Toubro	hashtag	False
+LT	$LT	cashtag	False
+LT	#LT	hashtag	False
+LT	लार्सन एंड टुब्रो लिमिटेड	devanagari	False
+M&M	Mahindra & Mahindra Ltd.	legal	False
+M&M	M&M	short	False
+M&M	Mahindra & Mahindra	short	False
+M&M	$Mahindra & Mahindra	cashtag	False
+M&M	#Mahindra & Mahindra	hashtag	False
+M&M	$M&M	cashtag	False
+M&M	#M&M	hashtag	False
+M&M	Mahindra	short	False
+M&M	$Mahindra	cashtag	False
+M&M	#Mahindra	hashtag	False
+M&M	महिंद्रा एंड महिंद्रा लिमिटेड	devanagari	False
+MARUTI	Maruti Suzuki India Ltd.	legal	False
+MARUTI	MARUTI	short	False
+MARUTI	Maruti Suzuki	short	False
+MARUTI	$Maruti Suzuki	cashtag	False
+MARUTI	#Maruti Suzuki	hashtag	False
+MARUTI	Maruti	short	False
+MARUTI	$Maruti	cashtag	False
+MARUTI	#Maruti	hashtag	False
+MARUTI	$MARUTI	cashtag	False
+MARUTI	#MARUTI	hashtag	False
+MARUTI	मारुति सुज़ुकी इंडिया लिमिटेड	devanagari	False
+MAXHEALTH	Max Healthcare Institute Ltd.	legal	False
+MAXHEALTH	MAXHEALTH	short	False
+MAXHEALTH	Max Healthcare	short	False
+MAXHEALTH	$Max Healthcare	cashtag	False
+MAXHEALTH	#Max Healthcare	hashtag	False
+MAXHEALTH	Max Health	short	False
+MAXHEALTH	$Max Health	cashtag	False
+MAXHEALTH	#Max Health	hashtag	False
+MAXHEALTH	$MAXHEALTH	cashtag	False
+MAXHEALTH	#MAXHEALTH	hashtag	False
+MAXHEALTH	मैक्स हेल्थकेयर इंस्टीट्यूट लिमिटेड	devanagari	False
+NTPC	NTPC Ltd.	legal	False
+NTPC	NTPC	short	False
+NTPC	$NTPC	cashtag	False
+NTPC	#NTPC	hashtag	False
+NTPC	एनटीपीसी लिमिटेड	devanagari	False
+NESTLEIND	Nestle India Ltd.	legal	False
+NESTLEIND	NESTLEIND	short	False
+NESTLEIND	Nestle India	short	False
+NESTLEIND	$Nestle India	cashtag	False
+NESTLEIND	#Nestle India	hashtag	False
+NESTLEIND	$NESTLEIND	cashtag	False
+NESTLEIND	#NESTLEIND	hashtag	False
+NESTLEIND	नेस्ले इंडिया लिमिटेड	devanagari	False
+ONGC	Oil & Natural Gas Corporation Ltd.	legal	False
+ONGC	ONGC	short	False
+ONGC	$ONGC	cashtag	False
+ONGC	#ONGC	hashtag	False
+ONGC	Oil and Natural Gas Corporation	short	False
+ONGC	$Oil and Natural Gas Corporation	cashtag	False
+ONGC	#Oil and Natural Gas Corporation	hashtag	False
+ONGC	ऑयल एंड नेचुरल गैस कॉरपोरेशन लिमिटेड	devanagari	False
+POWERGRID	Power Grid Corporation of India Ltd.	legal	False
+POWERGRID	POWERGRID	short	False
+POWERGRID	Power Grid	short	False
+POWERGRID	$Power Grid	cashtag	False
+POWERGRID	#Power Grid	hashtag	False
+POWERGRID	Power Grid Corporation	short	False
+POWERGRID	$Power Grid Corporation	cashtag	False
+POWERGRID	#Power Grid Corporation	hashtag	False
+POWERGRID	$POWERGRID	cashtag	False
+POWERGRID	#POWERGRID	hashtag	False
+POWERGRID	पावर ग्रिड कॉरपोरेशन ऑफ इंडिया लिमिटेड	devanagari	False
+RELIANCE	Reliance Industries Ltd.	legal	False
+RELIANCE	RELIANCE	short	False
+RELIANCE	Reliance	short	False
+RELIANCE	$Reliance	cashtag	False
+RELIANCE	#Reliance	hashtag	False
+RELIANCE	Reliance Industries	short	False
+RELIANCE	$Reliance Industries	cashtag	False
+RELIANCE	#Reliance Industries	hashtag	False
+RELIANCE	RIL	short	False
+RELIANCE	$RIL	cashtag	False
+RELIANCE	#RIL	hashtag	False
+RELIANCE	$RELIANCE	cashtag	False
+RELIANCE	#RELIANCE	hashtag	False
+RELIANCE	रिलायंस इंडस्ट्रीज़ लिमिटेड	devanagari	False
+SBILIFE	SBI Life Insurance Company Ltd.	legal	False
+SBILIFE	SBILIFE	short	False
+SBILIFE	SBI Life	short	False
+SBILIFE	$SBI Life	cashtag	False
+SBILIFE	#SBI Life	hashtag	False
+SBILIFE	$SBILIFE	cashtag	False
+SBILIFE	#SBILIFE	hashtag	False
+SBILIFE	एसबीआई लाइफ इंश्योरेंस कंपनी लिमिटेड	devanagari	False
+SHRIRAMFIN	Shriram Finance Ltd.	legal	False
+SHRIRAMFIN	SHRIRAMFIN	short	False
+SHRIRAMFIN	Shriram Finance	short	False
+SHRIRAMFIN	$Shriram Finance	cashtag	False
+SHRIRAMFIN	#Shriram Finance	hashtag	False
+SHRIRAMFIN	$SHRIRAMFIN	cashtag	False
+SHRIRAMFIN	#SHRIRAMFIN	hashtag	False
+SHRIRAMFIN	श्रीराम फाइनेंस लिमिटेड	devanagari	False
+SBIN	State Bank of India	legal	False
+SBIN	SBIN	short	False
+SBIN	SBI	short	False
+SBIN	$SBI	cashtag	False
+SBIN	#SBI	hashtag	False
+SBIN	State Bank of India	short	False
+SBIN	$State Bank of India	cashtag	False
+SBIN	#State Bank of India	hashtag	False
+SBIN	$SBIN	cashtag	False
+SBIN	#SBIN	hashtag	False
+SBIN	स्टेट बैंक ऑफ इंडिया	devanagari	False
+SUNPHARMA	Sun Pharmaceutical Industries Ltd.	legal	False
+SUNPHARMA	SUNPHARMA	short	False
+SUNPHARMA	Sun Pharma	short	False
+SUNPHARMA	$Sun Pharma	cashtag	False
+SUNPHARMA	#Sun Pharma	hashtag	False
+SUNPHARMA	Sun Pharmaceutical	short	False
+SUNPHARMA	$Sun Pharmaceutical	cashtag	False
+SUNPHARMA	#Sun Pharmaceutical	hashtag	False
+SUNPHARMA	$SUNPHARMA	cashtag	False
+SUNPHARMA	#SUNPHARMA	hashtag	False
+SUNPHARMA	सन फार्मास्युटिकल इंडस्ट्रीज़ लिमिटेड	devanagari	False
+TCS	Tata Consultancy Services Ltd.	legal	False
+TCS	TCS	short	False
+TCS	$TCS	cashtag	False
+TCS	#TCS	hashtag	False
+TCS	Tata Consultancy Services	short	False
+TCS	$Tata Consultancy Services	cashtag	False
+TCS	#Tata Consultancy Services	hashtag	False
+TCS	टाटा कंसल्टेंसी सर्विसेज़ लिमिटेड	devanagari	False
+TATACONSUM	Tata Consumer Products Ltd.	legal	False
+TATACONSUM	TATACONSUM	short	False
+TATACONSUM	Tata Consumer	short	False
+TATACONSUM	$Tata Consumer	cashtag	False
+TATACONSUM	#Tata Consumer	hashtag	False
+TATACONSUM	$TATACONSUM	cashtag	False
+TATACONSUM	#TATACONSUM	hashtag	False
+TATACONSUM	टाटा कंज्यूमर प्रोडक्ट्स लिमिटेड	devanagari	False
+TMPV	Tata Motors Passenger Vehicles Ltd.	legal	False
+TMPV	TMPV	short	False
+TMPV	Tata Motors	short	False
+TMPV	$Tata Motors	cashtag	False
+TMPV	#Tata Motors	hashtag	False
+TMPV	Tata Motors Passenger Vehicles	short	False
+TMPV	$Tata Motors Passenger Vehicles	cashtag	False
+TMPV	#Tata Motors Passenger Vehicles	hashtag	False
+TMPV	$TMPV	cashtag	False
+TMPV	#TMPV	hashtag	False
+TMPV	टाटा मोटर्स पैसेंजर व्हीकल्स लिमिटेड	devanagari	False
+TATASTEEL	Tata Steel Ltd.	legal	False
+TATASTEEL	TATASTEEL	short	False
+TATASTEEL	Tata Steel	short	False
+TATASTEEL	$Tata Steel	cashtag	False
+TATASTEEL	#Tata Steel	hashtag	False
+TATASTEEL	$TATASTEEL	cashtag	False
+TATASTEEL	#TATASTEEL	hashtag	False
+TATASTEEL	टाटा स्टील लिमिटेड	devanagari	False
+TECHM	Tech Mahindra Ltd.	legal	False
+TECHM	TECHM	short	False
+TECHM	Tech Mahindra	short	False
+TECHM	$Tech Mahindra	cashtag	False
+TECHM	#Tech Mahindra	hashtag	False
+TECHM	$TECHM	cashtag	False
+TECHM	#TECHM	hashtag	False
+TECHM	टेक महिंद्रा लिमिटेड	devanagari	False
+TITAN	Titan Company Ltd.	legal	False
+TITAN	TITAN	short	False
+TITAN	Titan	short	False
+TITAN	$Titan	cashtag	False
+TITAN	#Titan	hashtag	False
+TITAN	Titan Company	short	False
+TITAN	$Titan Company	cashtag	False
+TITAN	#Titan Company	hashtag	False
+TITAN	$TITAN	cashtag	False
+TITAN	#TITAN	hashtag	False
+TITAN	टाइटन कंपनी लिमिटेड	devanagari	False
+TRENT	Trent Ltd.	legal	False
+TRENT	TRENT	short	False
+TRENT	Trent	short	False
+TRENT	$Trent	cashtag	False
+TRENT	#Trent	hashtag	False
+TRENT	$TRENT	cashtag	False
+TRENT	#TRENT	hashtag	False
+TRENT	ट्रेंट लिमिटेड	devanagari	False
+ULTRACEMCO	UltraTech Cement Ltd.	legal	False
+ULTRACEMCO	ULTRACEMCO	short	False
+ULTRACEMCO	UltraTech Cement	short	False
+ULTRACEMCO	$UltraTech Cement	cashtag	False
+ULTRACEMCO	#UltraTech Cement	hashtag	False
+ULTRACEMCO	UltraTech	short	False
+ULTRACEMCO	$UltraTech	cashtag	False
+ULTRACEMCO	#UltraTech	hashtag	False
+ULTRACEMCO	$ULTRACEMCO	cashtag	False
+ULTRACEMCO	#ULTRACEMCO	hashtag	False
+ULTRACEMCO	अल्ट्राटेक सीमेंट लिमिटेड	devanagari	False
+WIPRO	Wipro Ltd.	legal	False
+WIPRO	WIPRO	short	False
+WIPRO	Wipro	short	False
+WIPRO	$Wipro	cashtag	False
+WIPRO	#Wipro	hashtag	False
+WIPRO	$WIPRO	cashtag	False
+WIPRO	#WIPRO	hashtag	False
+WIPRO	विप्रो लिमिटेड	devanagari	False
