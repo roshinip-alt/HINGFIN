@@ -1,0 +1,502 @@
+{
+    "ADANIENT": {
+        "company_name": "Adani Enterprises Ltd.",
+        "symbol": "ADANIENT",
+        "isin": "INE423A01024",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/adani-enterpris-6541.html",
+        "moneycontrol_stock_id": "AE01",
+        "moneycontrol_stock_name": "Adani Enterprises",
+        "moneycontrol_sector": "Trading",
+        "status": "verified"
+    },
+    "ADANIPORTS": {
+        "company_name": "Adani Ports and Special Economic Zone Ltd.",
+        "symbol": "ADANIPORTS",
+        "isin": "INE742F01042",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/adani-ports-246820.html",
+        "moneycontrol_stock_id": "MPS",
+        "moneycontrol_stock_name": "Adani Ports and Special Economic Zone",
+        "moneycontrol_sector": "Infrastructure",
+        "status": "verified"
+    },
+    "APOLLOHOSP": {
+        "company_name": "Apollo Hospitals Enterprise Ltd.",
+        "symbol": "APOLLOHOSP",
+        "isin": "INE437A01024",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/apollo-hospital-4161.html",
+        "moneycontrol_stock_id": "AHE",
+        "moneycontrol_stock_name": "Apollo Hospitals Enterprises",
+        "moneycontrol_sector": "Healthcare",
+        "status": "verified"
+    },
+    "ASIANPAINT": {
+        "company_name": "Asian Paints Ltd.",
+        "symbol": "ASIANPAINT",
+        "isin": "INE021A01026",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/asian-paints-262.html",
+        "moneycontrol_stock_id": "API",
+        "moneycontrol_stock_name": "Asian Paints",
+        "moneycontrol_sector": "Chemicals",
+        "status": "verified"
+    },
+    "AXISBANK": {
+        "company_name": "Axis Bank Ltd.",
+        "symbol": "AXISBANK",
+        "isin": "INE238A01034",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/axis-bank-3142.html",
+        "moneycontrol_stock_id": "UTI10",
+        "moneycontrol_stock_name": "Axis Bank",
+        "moneycontrol_sector": "Banks",
+        "status": "verified"
+    },
+    "BAJAJ-AUTO": {
+        "company_name": "Bajaj Auto Ltd.",
+        "symbol": "BAJAJ-AUTO",
+        "isin": "INE917I01010",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/bajaj-auto-246891.html",
+        "moneycontrol_stock_id": "BA06",
+        "moneycontrol_stock_name": "Bajaj Auto",
+        "moneycontrol_sector": "Automobile & Ancillaries",
+        "status": "verified"
+    },
+    "BAJFINANCE": {
+        "company_name": "Bajaj Finance Ltd.",
+        "symbol": "BAJFINANCE",
+        "isin": "INE296A01032",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/bajaj-finance-62781.html",
+        "moneycontrol_stock_id": "BAF",
+        "moneycontrol_stock_name": "Bajaj Finance",
+        "moneycontrol_sector": "Finance",
+        "status": "verified"
+    },
+    "BAJAJFINSV": {
+        "company_name": "Bajaj Finserv Ltd.",
+        "symbol": "BAJAJFINSV",
+        "isin": "INE918I01026",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/bajaj-finserv-246890.html",
+        "moneycontrol_stock_id": "BF04",
+        "moneycontrol_stock_name": "Bajaj Finserv",
+        "moneycontrol_sector": "Finance",
+        "status": "verified"
+    },
+    "BEL": {
+        "company_name": "Bharat Electronics Ltd.",
+        "symbol": "BEL",
+        "isin": "INE263A01024",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/bharat-elec-8141.html",
+        "moneycontrol_stock_id": "BE03",
+        "moneycontrol_stock_name": "Bharat Electronics",
+        "moneycontrol_sector": "Aviation",
+        "status": "verified"
+    },
+    "BHARTIARTL": {
+        "company_name": "Bharti Airtel Ltd.",
+        "symbol": "BHARTIARTL",
+        "isin": "INE397D01024",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/bharti-airtel-1202.html",
+        "moneycontrol_stock_id": "BTV",
+        "moneycontrol_stock_name": "Bharti Airtel",
+        "moneycontrol_sector": "Telecom",
+        "status": "verified"
+    },
+    "CIPLA": {
+        "company_name": "Cipla Ltd.",
+        "symbol": "CIPLA",
+        "isin": "INE059A01026",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/cipla-421.html",
+        "moneycontrol_stock_id": "C",
+        "moneycontrol_stock_name": "Cipla",
+        "moneycontrol_sector": "Healthcare",
+        "status": "verified"
+    },
+    "COALINDIA": {
+        "company_name": "Coal India Ltd.",
+        "symbol": "COALINDIA",
+        "isin": "INE522F01014",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/coal-india-509175.html",
+        "moneycontrol_stock_id": "CI29",
+        "moneycontrol_stock_name": "Coal India",
+        "moneycontrol_sector": "Metals & Mining",
+        "status": "verified"
+    },
+    "DRREDDY": {
+        "company_name": "Dr. Reddy's Laboratories Ltd.",
+        "symbol": "DRREDDY",
+        "isin": "INE089A01031",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/dr-reddys-labs-2201.html",
+        "moneycontrol_stock_id": "DRL",
+        "moneycontrol_stock_name": "Dr Reddys Laboratories",
+        "moneycontrol_sector": "Healthcare",
+        "status": "verified"
+    },
+    "EICHERMOT": {
+        "company_name": "Eicher Motors Ltd.",
+        "symbol": "EICHERMOT",
+        "isin": "INE066A01021",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/eicher-motors-4381.html",
+        "moneycontrol_stock_id": "EM",
+        "moneycontrol_stock_name": "Eicher Motors",
+        "moneycontrol_sector": "Automobile & Ancillaries",
+        "status": "verified"
+    },
+    "ETERNAL": {
+        "company_name": "Eternal Ltd.",
+        "symbol": "ETERNAL",
+        "isin": "INE758T01015",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/eternal-511696.html",
+        "moneycontrol_stock_id": "Z01",
+        "moneycontrol_stock_name": "Eternal",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    },
+    "GRASIM": {
+        "company_name": "Grasim Industries Ltd.",
+        "symbol": "GRASIM",
+        "isin": "INE047A01021",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/grasim-2261.html",
+        "moneycontrol_stock_id": "GI01",
+        "moneycontrol_stock_name": "Grasim Industries",
+        "moneycontrol_sector": "Diversified",
+        "status": "verified"
+    },
+    "HCLTECH": {
+        "company_name": "HCL Technologies Ltd.",
+        "symbol": "HCLTECH",
+        "isin": "INE860A01027",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/hcl-tech-682.html",
+        "moneycontrol_stock_id": "HCL02",
+        "moneycontrol_stock_name": "HCL Technologies",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    },
+    "HDFCBANK": {
+        "company_name": "HDFC Bank Ltd.",
+        "symbol": "HDFCBANK",
+        "isin": "INE040A01034",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/hdfc-bank-4962.html",
+        "moneycontrol_stock_id": "HDF01",
+        "moneycontrol_stock_name": "HDFC Bank",
+        "moneycontrol_sector": "Banks",
+        "status": "verified"
+    },
+    "HDFCLIFE": {
+        "company_name": "HDFC Life Insurance Company Ltd.",
+        "symbol": "HDFCLIFE",
+        "isin": "INE795G01014",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/hdfc-life-510633.html",
+        "moneycontrol_stock_id": "HSL01",
+        "moneycontrol_stock_name": "HDFC Life Insurance Company",
+        "moneycontrol_sector": "Insurance",
+        "status": "verified"
+    },
+    "HINDALCO": {
+        "company_name": "Hindalco Industries Ltd.",
+        "symbol": "HINDALCO",
+        "isin": "INE038A01020",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/hindalco-6261.html",
+        "moneycontrol_stock_id": "H",
+        "moneycontrol_stock_name": "Hindalco Industries",
+        "moneycontrol_sector": "Metals & Mining",
+        "status": "verified"
+    },
+    "HINDUNILVR": {
+        "company_name": "Hindustan Unilever Ltd.",
+        "symbol": "HINDUNILVR",
+        "isin": "INE030A01027",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/hul-1147.html",
+        "moneycontrol_stock_id": "HL",
+        "moneycontrol_stock_name": "Hindustan Unilever",
+        "moneycontrol_sector": "FMCG",
+        "status": "verified"
+    },
+    "ICICIBANK": {
+        "company_name": "ICICI Bank Ltd.",
+        "symbol": "ICICIBANK",
+        "isin": "INE090A01021",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/icici-bank-6422.html",
+        "moneycontrol_stock_id": "ICI02",
+        "moneycontrol_stock_name": "ICICI Bank",
+        "moneycontrol_sector": "Banks",
+        "status": "verified"
+    },
+    "ITC": {
+        "company_name": "ITC Ltd.",
+        "symbol": "ITC",
+        "isin": "INE154A01025",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/itc-341.html",
+        "moneycontrol_stock_id": "ITC",
+        "moneycontrol_stock_name": "ITC",
+        "moneycontrol_sector": "Diversified",
+        "status": "verified"
+    },
+    "INFY": {
+        "company_name": "Infosys Ltd.",
+        "symbol": "INFY",
+        "isin": "INE009A01021",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/infosys-4001.html",
+        "moneycontrol_stock_id": "IT",
+        "moneycontrol_stock_name": "Infosys",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    },
+    "INDIGO": {
+        "company_name": "InterGlobe Aviation Ltd.",
+        "symbol": "INDIGO",
+        "isin": "INE646L01027",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/interglobe-avi-510104.html",
+        "moneycontrol_stock_id": "IA05",
+        "moneycontrol_stock_name": "Interglobe Aviation",
+        "moneycontrol_sector": "Aviation",
+        "status": "verified"
+    },
+    "JSWSTEEL": {
+        "company_name": "JSW Steel Ltd.",
+        "symbol": "JSWSTEEL",
+        "isin": "INE019A01038",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/jsw-steel-3121.html",
+        "moneycontrol_stock_id": "JVS",
+        "moneycontrol_stock_name": "JSW Steel",
+        "moneycontrol_sector": "Metals & Mining",
+        "status": "verified"
+    },
+    "JIOFIN": {
+        "company_name": "Jio Financial Services Ltd.",
+        "symbol": "JIOFIN",
+        "isin": "INE758E01017",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/jio-financial-513786.html",
+        "moneycontrol_stock_id": "JFS",
+        "moneycontrol_stock_name": "Jio Financial Services",
+        "moneycontrol_sector": "Finance",
+        "status": "verified"
+    },
+    "KOTAKBANK": {
+        "company_name": "Kotak Mahindra Bank Ltd.",
+        "symbol": "KOTAKBANK",
+        "isin": "INE237A01036",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/kotak-mahindra-3441.html",
+        "moneycontrol_stock_id": "KMF",
+        "moneycontrol_stock_name": "Kotak Mahindra Bank",
+        "moneycontrol_sector": "Banks",
+        "status": "verified"
+    },
+    "LT": {
+        "company_name": "Larsen & Toubro Ltd.",
+        "symbol": "LT",
+        "isin": "INE018A01030",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/larsen-4721.html",
+        "moneycontrol_stock_id": "LT",
+        "moneycontrol_stock_name": "Larsen and Toubro",
+        "moneycontrol_sector": "Infrastructure",
+        "status": "verified"
+    },
+    "M&M": {
+        "company_name": "Mahindra & Mahindra Ltd.",
+        "symbol": "M&M",
+        "isin": "INE101A01026",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/mm-4662.html",
+        "moneycontrol_stock_id": "MM",
+        "moneycontrol_stock_name": "Mahindra and Mahindra",
+        "moneycontrol_sector": "Automobile & Ancillaries",
+        "status": "verified"
+    },
+    "MARUTI": {
+        "company_name": "Maruti Suzuki India Ltd.",
+        "symbol": "MARUTI",
+        "isin": "INE585B01010",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/maruti-suzuki-51385.html",
+        "moneycontrol_stock_id": "MU01",
+        "moneycontrol_stock_name": "Maruti Suzuki India",
+        "moneycontrol_sector": "Automobile & Ancillaries",
+        "status": "verified"
+    },
+    "MAXHEALTH": {
+        "company_name": "Max Healthcare Institute Ltd.",
+        "symbol": "MAXHEALTH",
+        "isin": "INE027H01010",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/max-healthcare-511544.html",
+        "moneycontrol_stock_id": "MHI",
+        "moneycontrol_stock_name": "Max Healthcare Institute",
+        "moneycontrol_sector": "Healthcare",
+        "status": "verified"
+    },
+    "NTPC": {
+        "company_name": "NTPC Ltd.",
+        "symbol": "NTPC",
+        "isin": "INE733E01010",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/ntpc-164775.html",
+        "moneycontrol_stock_id": "NTP",
+        "moneycontrol_stock_name": "NTPC",
+        "moneycontrol_sector": "Power",
+        "status": "verified"
+    },
+    "NESTLEIND": {
+        "company_name": "Nestle India Ltd.",
+        "symbol": "NESTLEIND",
+        "isin": "INE239A01024",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/nestle-37141.html",
+        "moneycontrol_stock_id": "NI",
+        "moneycontrol_stock_name": "Nestle India",
+        "moneycontrol_sector": "FMCG",
+        "status": "verified"
+    },
+    "ONGC": {
+        "company_name": "Oil & Natural Gas Corporation Ltd.",
+        "symbol": "ONGC",
+        "isin": "INE213A01029",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/ongc-2161.html",
+        "moneycontrol_stock_id": "ONG",
+        "moneycontrol_stock_name": "Oil and Natural Gas Corporation",
+        "moneycontrol_sector": "Oil & Gas",
+        "status": "verified"
+    },
+    "POWERGRID": {
+        "company_name": "Power Grid Corporation of India Ltd.",
+        "symbol": "POWERGRID",
+        "isin": "INE752E01010",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/power-grid-corp-246800.html",
+        "moneycontrol_stock_id": "PGC",
+        "moneycontrol_stock_name": "Power Grid Corporation of India",
+        "moneycontrol_sector": "Power",
+        "status": "verified"
+    },
+    "RELIANCE": {
+        "company_name": "Reliance Industries Ltd.",
+        "symbol": "RELIANCE",
+        "isin": "INE002A01018",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/reliance-322.html",
+        "moneycontrol_stock_id": "RI",
+        "moneycontrol_stock_name": "Reliance Industries",
+        "moneycontrol_sector": "Oil & Gas",
+        "status": "verified"
+    },
+    "SBILIFE": {
+        "company_name": "SBI Life Insurance Company Ltd.",
+        "symbol": "SBILIFE",
+        "isin": "INE123W01016",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/sbi-life-insurance-company-510586.html",
+        "moneycontrol_stock_id": "SLI03",
+        "moneycontrol_stock_name": "SBI Life Insurance Company",
+        "moneycontrol_sector": "Insurance",
+        "status": "verified"
+    },
+    "SHRIRAMFIN": {
+        "company_name": "Shriram Finance Ltd.",
+        "symbol": "SHRIRAMFIN",
+        "isin": "INE721A01047",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/shriram-trans-40841.html",
+        "moneycontrol_stock_id": "STF",
+        "moneycontrol_stock_name": "Shriram Finance",
+        "moneycontrol_sector": "Finance",
+        "status": "verified"
+    },
+    "SBIN": {
+        "company_name": "State Bank of India",
+        "symbol": "SBIN",
+        "isin": "INE062A01020",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/sbi-406.html",
+        "moneycontrol_stock_id": "SBI",
+        "moneycontrol_stock_name": "State Bank of India",
+        "moneycontrol_sector": "Banks",
+        "status": "verified"
+    },
+    "SUNPHARMA": {
+        "company_name": "Sun Pharmaceutical Industries Ltd.",
+        "symbol": "SUNPHARMA",
+        "isin": "INE044A01036",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/sun-pharma-7841.html",
+        "moneycontrol_stock_id": "SPI",
+        "moneycontrol_stock_name": "Sun Pharmaceutical Industries",
+        "moneycontrol_sector": "Healthcare",
+        "status": "verified"
+    },
+    "TCS": {
+        "company_name": "Tata Consultancy Services Ltd.",
+        "symbol": "TCS",
+        "isin": "INE467B01029",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/tcs-148716.html",
+        "moneycontrol_stock_id": "TCS",
+        "moneycontrol_stock_name": "Tata Consultancy Services",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    },
+    "TATACONSUM": {
+        "company_name": "Tata Consumer Products Ltd.",
+        "symbol": "TATACONSUM",
+        "isin": "INE192A01025",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/tata-global-bev-3225.html",
+        "moneycontrol_stock_id": "TT",
+        "moneycontrol_stock_name": "TATA Consumer Products",
+        "moneycontrol_sector": "Agri",
+        "status": "verified"
+    },
+    "TMPV": {
+        "company_name": "Tata Motors Passenger Vehicles Ltd.",
+        "symbol": "TMPV",
+        "isin": "INE155A01022",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/tmpv-1605.html",
+        "moneycontrol_stock_id": "TEL",
+        "moneycontrol_stock_name": "Tata Motors Passenger Vehicles",
+        "moneycontrol_sector": "Automobile & Ancillaries",
+        "status": "verified"
+    },
+    "TATASTEEL": {
+        "company_name": "Tata Steel Ltd.",
+        "symbol": "TATASTEEL",
+        "isin": "INE081A01020",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/tata-steel-1421.html",
+        "moneycontrol_stock_id": "TIS",
+        "moneycontrol_stock_name": "Tata Steel",
+        "moneycontrol_sector": "Metals & Mining",
+        "status": "verified"
+    },
+    "TECHM": {
+        "company_name": "Tech Mahindra Ltd.",
+        "symbol": "TECHM",
+        "isin": "INE669C01036",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/tech-mahindra-246596.html",
+        "moneycontrol_stock_id": "TM4",
+        "moneycontrol_stock_name": "Tech Mahindra",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    },
+    "TITAN": {
+        "company_name": "Titan Company Ltd.",
+        "symbol": "TITAN",
+        "isin": "INE280A01028",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/titan-company-3643.html",
+        "moneycontrol_stock_id": "TI01",
+        "moneycontrol_stock_name": "Titan Company",
+        "moneycontrol_sector": "Diamond  &  Jewellery",
+        "status": "verified"
+    },
+    "TRENT": {
+        "company_name": "Trent Ltd.",
+        "symbol": "TRENT",
+        "isin": "INE849A01020",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/trent-5221.html",
+        "moneycontrol_stock_id": "L",
+        "moneycontrol_stock_name": "Trent",
+        "moneycontrol_sector": "Retailing",
+        "status": "verified"
+    },
+    "ULTRACEMCO": {
+        "company_name": "UltraTech Cement Ltd.",
+        "symbol": "ULTRACEMCO",
+        "isin": "INE481G01011",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/ultratechcement-186021.html",
+        "moneycontrol_stock_id": "UTC",
+        "moneycontrol_stock_name": "UltraTech Cement",
+        "moneycontrol_sector": "Construction Materials",
+        "status": "verified"
+    },
+    "WIPRO": {
+        "company_name": "Wipro Ltd.",
+        "symbol": "WIPRO",
+        "isin": "INE075A01022",
+        "board_url": "https://mmb.moneycontrol.com/forum-topics/stocks/wipro-1901.html",
+        "moneycontrol_stock_id": "W",
+        "moneycontrol_stock_name": "Wipro",
+        "moneycontrol_sector": "Software & IT Services",
+        "status": "verified"
+    }
+}
