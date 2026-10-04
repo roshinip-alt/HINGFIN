@@ -37,7 +37,7 @@ PARQUET_FILE = OUTPUT_DIR / "moneycontrol_all_raw.parquet"
 DEBUG_FIRST_POST_FILE = OUTPUT_DIR / "moneycontrol_first_post_debug.html"
 
 # Collection settings
-MIN_POSTS_PER_BOARD = 80
+MIN_POSTS_PER_BOARD = 200
 SCROLL_PAUSE_SECONDS = 3.0
 MAX_SCROLLS = 20
 

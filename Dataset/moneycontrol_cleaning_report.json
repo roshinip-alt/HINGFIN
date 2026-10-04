@@ -1,0 +1,27 @@
+{
+  "pipeline": "HINGFIN Phase 1 - Step 3",
+  "source": "Moneycontrol Message Board",
+  "input_file": "Dataset/moneycontrol_all_raw.csv",
+  "output_csv": "Dataset/moneycontrol_clean_deduplicated.csv",
+  "output_parquet": "Dataset/moneycontrol_clean_deduplicated.parquet",
+  "input_records": 4101,
+  "removed_length_filter": 82,
+  "removed_promo_spam": 54,
+  "removed_high_duplicate_authors": 0,
+  "high_duplicate_author_count": 0,
+  "removed_exact_duplicates": 92,
+  "removed_near_duplicates": 8,
+  "final_records": 3865,
+  "parameters": {
+    "min_text_length": 10,
+    "max_text_length": 600,
+    "shingle_size": 5,
+    "jaccard_threshold": 0.85,
+    "minhash_num_perm": 128
+  },
+  "text_columns": {
+    "raw": "text_raw",
+    "clean": "text_clean"
+  },
+  "raw_text_preserved": true
+}
