@@ -1,0 +1,9 @@
+# Dependencies identified from the project Python source.
+# pyarrow provides the engine required by pandas.to_parquet().
+beautifulsoup4
+datasketch
+pandas
+pyarrow
+python-dotenv
+requests
+selenium
