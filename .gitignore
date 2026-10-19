@@ -1,0 +1,17 @@
+# Python environment and secrets
+.venv/
+venv/
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Raw HINGFIN research data
+Dataset/*_raw.csv
+Dataset/*_raw.parquet
+Dataset/*_raw.json
+Dataset/*_raw.jsonl
+
+# Private research data directories
+data/
+private_data/

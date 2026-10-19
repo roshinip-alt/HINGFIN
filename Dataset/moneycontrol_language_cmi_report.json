@@ -4,7 +4,7 @@
   "input_file": "Dataset/moneycontrol_clean_deduplicated.csv",
   "output_csv": "Dataset/moneycontrol_language_cmi.csv",
   "output_parquet": "Dataset/moneycontrol_language_cmi.parquet",
-  "records_processed": 3865,
+  "records_processed": 8855,
   "token_labels": [
     "EN",
     "HI_LATIN",
@@ -27,24 +27,24 @@
     }
   },
   "bucket_counts": {
-    "mono": 2364,
-    "medium": 947,
-    "low": 362,
-    "high": 192
+    "mono": 5382,
+    "medium": 2161,
+    "low": 878,
+    "high": 434
   },
   "script_counts": {
-    "latin_only": 3832,
-    "devanagari_only": 22,
-    "mixed_script": 11
+    "latin_only": 8783,
+    "devanagari_only": 36,
+    "mixed_script": 36
   },
   "emoji_counts": {
-    "False": 3862,
-    "True": 3
+    "False": 8849,
+    "True": 6
   },
   "token_totals": {
-    "EN": 17060,
-    "HI_LATIN": 4067,
-    "HI_DEVA": 554
+    "EN": 38737,
+    "HI_LATIN": 9802,
+    "HI_DEVA": 1126
   },
   "lexicons": {
     "english_file": "Dataset/english_lexicon.txt",

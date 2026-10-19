@@ -247,14 +247,14 @@ for _, company in df.iterrows():
     aliases = short_aliases.get(symbol, [])
 
     for alias in aliases:
-       rows.append({
+        rows.append({
             "symbol": symbol,
             "surface_form": alias,
             "surface_form_type": "short",
             "is_ambiguous": False
         })
 
-      rows.append({
+        rows.append({
             "symbol": symbol,
             "surface_form": "$" + alias,
             "surface_form_type": "cashtag",
@@ -268,19 +268,19 @@ for _, company in df.iterrows():
             "is_ambiguous": False
         })
 
-    rows.append({
-        "symbol": symbol,
-        "surface_form": "$" + symbol,
-        "surface_form_type": "cashtag",
-        "is_ambiguous": False
-    })
+        rows.append({
+            "symbol": symbol,
+            "surface_form": "$" + symbol,
+            "surface_form_type": "cashtag",
+            "is_ambiguous": False
+        })
 
-    rows.append({
-        "symbol": symbol,
-        "surface_form": "#" + symbol,
-        "surface_form_type": "hashtag",
-        "is_ambiguous": False
-    })
+        rows.append({
+            "symbol": symbol,
+            "surface_form": "#" + symbol,
+            "surface_form_type": "hashtag",
+            "is_ambiguous": False
+        })
 
 ticker_dictionary = pd.DataFrame(rows)
 

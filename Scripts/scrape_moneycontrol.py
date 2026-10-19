@@ -638,33 +638,7 @@ def parse_posts(
             "div[class*='postItem_text_section']"
         )
 
-        # ----------------------------------------------------
-        # Save debug HTML for first post
-        # ----------------------------------------------------
-
-        if i == 0:
-
-            DEBUG_FIRST_POST_FILE.parent.mkdir(
-                parents=True,
-                exist_ok=True
-            )
-
-            debug_file = (
-                DEBUG_FIRST_POST_FILE.parent
-                /
-                f"moneycontrol_{symbol.lower()}_"
-                f"first_post_debug.html"
-            )
-
-            debug_file.write_text(
-                container.prettify(),
-                encoding="utf-8"
-            )
-
-            print(
-                f"Wrote first post's raw HTML to "
-                f"{debug_file}"
-            )
+        
 
 
         author_raw = (
