@@ -1,0 +1,31 @@
+{
+  "pipeline": "HINGFIN Phase 1 - Step 3",
+  "source": "YouTube comments",
+  "input_file": "C:\\Users\\pc\\HINGFIN-Phase1\\StockMarket\\Dataset\\youtube_filter_decisions_1500.csv",
+  "output_csv": "C:\\Users\\pc\\HINGFIN-Phase1\\StockMarket\\Dataset\\youtube_1500_clean_deduplicated.csv",
+  "output_parquet": "C:\\Users\\pc\\HINGFIN-Phase1\\StockMarket\\Dataset\\youtube_1500_clean_deduplicated.parquet",
+  "input_records": 1500,
+  "removed_by_decision_filter": 619,
+  "retained_for_cleaning": 881,
+  "removed_length_filter": 0,
+  "removed_promo_spam": 0,
+  "removed_high_duplicate_authors": 0,
+  "author_filter_applied": false,
+  "author_filter_reason": "author_hash is not present in the input CSV",
+  "removed_exact_duplicates": 0,
+  "removed_near_duplicates": 202,
+  "final_records": 679,
+  "parameters": {
+    "min_text_length": 10,
+    "max_text_length": 600,
+    "shingle_size": 5,
+    "jaccard_threshold": 0.85,
+    "minhash_num_perm": 128
+  },
+  "text_columns": {
+    "raw": "comment",
+    "clean": "text_clean"
+  },
+  "raw_text_preserved": true,
+  "keep_policy": "first encountered; published_at is missing for records in this input"
+}
